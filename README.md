@@ -37,4 +37,11 @@ Ils ont souvent trop peu de ketchup, mais ils se contentent de faire ce qu’ils
 
 L'équipe Heinz a donc pris connaissance de la situation de l'utilisateur et a littéralement inversé le problème. La bouteille de ketchup à l'envers était née - elle aidait les consommateurs à obtenir le produit plus rapidement et avec moins de gâchis à l'ouverture de la bouteille (une nouvelle invention sur les vannes a également aidé - consultez cet article sur son inventeur Paul Brown ). 
 
+## SLACK et son logo
+
+![GitHub Logo](https://www.underconsideration.com/brandnew/archives/slack_assets_before_after.png)
+
+### Unifiaction 
+
+
 
