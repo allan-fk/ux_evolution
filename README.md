@@ -1,3 +1,43 @@
+#### Fleur
+
+L’UX dans le monde
+
+UX : User eXperience (Terme anglais) = Expérience utilisateur.
+
+Définition :
+L’UX c’est la science de l’expérience utilisateur. C’est l’ensemble des émotions que peut ressentir un utilisateur par rapport à une interface donnée (site web, application mobile, objet du quotidien.
+
+En quoi c’est Important ?
+L’expérience d’un utilisateur sur internet à une importance prédominante. 7 internautes sur 10 ne reviennent pas sur un site s’il est mauvais. L’utilisateur doit comprendre ce qu’on attend de lui en moins d’une seconde. Sinon il quitte le site et n’y retourne jamais. Et c’est du chiffre d’affaire en moins.
+
+UX et UI :
+UX Design = User eXperience Design (Design de l’expérience utilisateur).
+UI Design = User Interface Design (Design d’interface utilisateur).
+
+Exemple :
+Une souris d’ordinateur = UI design de la souris, UX la satisfaction, ressenti lors de l’utilisation.  
+Pot de ketchup = UI bouteille, UX bouteille inversée, bouchon vers le bas (faciliter l’écoulement).
+
+Ce qu’on veut retrouver dans l’UX :
+- Facile à trouver : travaille de référencement
+- Accessible : Tout navigateurs, penser aux handicapes.
+- Design qui donne envie et confiance. Graphisme et ergonomie.
+- Facile à prendre en main. Intuitif pour se repérer facilement.
+- Crédible : Les utilisateurs doivent être rassurée et convaincus.
+- Efficace : Trouver les réponses facilement, ne pas avoir d’erreur.
+
+Les étapes de l’UX :
+1. Comprendre les attentes de l’utilisateur.
+2. Concevoir les premières fonctionnalités.
+3. Élaborer une structure.
+4. Réaliser les premiers schémas.
+5. Faire plusieurs focus group. Avoir les feebacks des utilisateurs.
+
+Tendances UX design :
+- La réalité augmentée / VR
+
+#### Allan
+
 # CAS D'ECOLE DE L'UX :
 
 ## HEINZ et la bouteille de ketchup
