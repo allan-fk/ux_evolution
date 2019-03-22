@@ -2,6 +2,8 @@
 
 ## HEINZ et la bouteille de ketchup
 
+![GitHub Logo](lib/img/Ketchup.jpg)
+
 La bouteille de ketchup en verre emblématique de Heinz était autrefois un aliment de base dans les cuisines familiales du monde entier.
 
 Mais à la fin des années 1980, l’entreprise alimentaire géante a pris la décision de changer de façon monumentale la conception de ses emballages. La motivation derrière ce changement en dit long sur l’importance de la recherche sur les besoins des utilisateurs et en particulier sur l'importance de l'UX dans un produit.
@@ -34,3 +36,5 @@ Avant de passer à ce que cette histoire a à nous dire sur le design UX, laisse
 Ils ont souvent trop peu de ketchup, mais ils se contentent de faire ce qu’ils ont au lieu de continuer à presser. Et des morceaux de ketchup s'accumulaient autour de la buse, ce qui était un peu une tâche compliquée. Pour lutter contre ces problèmes, les gens stockaient souvent leurs bouteilles de Heinz à l’envers dans le réfrigérateur ou le garde-manger.
 
 L'équipe Heinz a donc pris connaissance de la situation de l'utilisateur et a littéralement inversé le problème. La bouteille de ketchup à l'envers était née - elle aidait les consommateurs à obtenir le produit plus rapidement et avec moins de gâchis à l'ouverture de la bouteille (une nouvelle invention sur les vannes a également aidé - consultez cet article sur son inventeur Paul Brown ). 
+
+
