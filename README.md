@@ -1,3 +1,19 @@
+# Déroulement
+![GitHub Logo](https://screenshotscdn.firefoxusercontent.com/images/dea4bed6-de06-4495-bdd9-f8648e36547a.png)
+1. Introduction interactif à notre exposer via un pitch sur l'exemple de la bouteilles de ketchup heinz --> 3/5 minutes
+![GitHub Logo](lib/img/Ketchup.jpg)
+2. Pourquoi notre sujet ? --> 1/2minutes
+![GitHub Logo](https://screenshotscdn.firefoxusercontent.com/images/0c3c2c45-ab01-4ed8-b24d-fb3464883fa0.png)
+3.  L'ux c'est quoi --> 1 minute
+![GitHub Logo](https://screenshotscdn.firefoxusercontent.com/images/a8fb4879-9f8d-4d4a-b2a0-6479334318b8.png)
+4. Breve histoire de l'U.X  --> 3 minutes
+![GitHub Logo](https://screenshotscdn.firefoxusercontent.com/images/ddaa70c6-d6f5-462d-843a-86c4e1a29f34.png)
+5. Le casque VR --> 3 minutes
+![GitHub Logo](https://veralty.fr/images/vr.jpg))
+  
+
+ 
+
 #### Fleur
 
 L’UX dans le monde
